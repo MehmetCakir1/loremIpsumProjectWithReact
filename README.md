@@ -5,4 +5,4 @@
 - __Bootstrap5__<br>
 - __setInterval__<br>
 
-<div align="center"><img src="https://github.com/MehmetCakir1/sliderProjectWithReact/blob/master/newSliderProject.gif"</div>
+<div align="center"><img src="https://github.com/MehmetCakir1/loremIpsumProjectWithReact/blob/master/loremIpsumProject.gif>
