@@ -1,4 +1,4 @@
-[Click here to see the project](https://slider-project-with-react.vercel.app/)
+[Click here to see the project](https://lorem-ipsum-project-with-react.vercel.app/)
 <br>
 - __React Hooks__ <br>
 - __Props/States/Components__<br>
